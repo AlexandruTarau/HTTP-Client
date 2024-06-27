@@ -50,4 +50,3 @@ This code is a C implementation for a client that interacts with a server using 
 - User authentication is required for accessing library functionalities (enter_library, get_books, add_book...).
 - Ensure valid input format for commands and data.
 - Error handling is implemented for various scenarios, including invalid input, authentication failure, and server errors.
-- I used my own lab 9 solution as starting point for this assignment!!
